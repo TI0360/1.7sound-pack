@@ -1,0 +1,230 @@
+{
+  "entity.player.attack.nodamage": {
+    "category": "player",
+    "replace": true,
+    "sounds": [
+      {
+        "name": "attack.nodamage",
+        "type": "event",
+        "weight": 10
+      },
+      "sound/silent"
+    ]
+  },
+  "entity.player.attack.weak": {
+    "category": "player",
+    "replace": true,
+    "sounds": [
+      {
+        "name": "attack.weak",
+        "type": "event",
+        "weight": 10
+      },
+      "sound/silent"
+    ]
+  },
+"entity.player.attack.crit": {
+    "category": "player",
+    "replace": true,
+    "sounds": [
+      {
+        "name": "attack.crit",
+        "type": "event",
+        "weight": 10
+      },
+      "sound/silent"
+    ]
+  },
+"entity.player.attack.knockback": {
+    "category": "player",
+    "replace": true,
+    "sounds": [
+      {
+        "name": "attack.knockback",
+        "type": "event",
+        "weight": 10
+      },
+      "sound/silent"
+    ]
+  },
+"entity.player.attack.sweep": {
+    "category": "player",
+    "replace": true,
+    "sounds": [
+      {
+        "name": "attack.sweep",
+        "type": "event",
+        "weight": 10
+      },
+      "sound/silent"
+    ]
+  },
+"entity.player.attack.strong": {
+    "category": "player",
+    "replace": true,
+    "sounds": [
+      {
+        "name": "attack.strong",
+        "type": "event",
+        "weight": 10
+      },
+      "sound/damage"
+    ]
+  },
+"entity.witch.ambient": {
+    "category": "hostile",
+    "replace": true,
+    "sounds": [
+      {
+        "name": "witch.ambient",
+        "type": "event",
+        "weight": 10
+      },
+      "sound/silent"
+    ]
+  },
+"entity.witch.death": {
+    "category": "hostile",
+    "replace": true,
+    "sounds": [
+      {
+        "name": "witch.death",
+        "type": "event",
+        "weight": 10
+      },
+      "sound/silent"
+    ]
+  },
+"entity.witch.drink": {
+    "category": "hostile",
+    "replace": true,
+    "sounds": [
+      {
+        "name": "witch.drink",
+        "type": "event",
+        "weight": 10
+      },
+      "sound/silent"
+    ]
+  },
+"entity.witch.hurt": {
+    "category": "hostile",
+    "replace": true,
+    "sounds": [
+      {
+        "name": "witch.hurt",
+        "type": "event",
+        "weight": 10
+      },
+      "sound/silent"
+    ]
+  },
+"entity.witch.throw": {
+    "category": "hostile",
+    "replace": true,
+    "sounds": [
+      {
+        "name": "witch.throw",
+        "type": "event",
+        "weight": 10
+      },
+      "sound/silent"
+    ]
+  },
+"entity.lightning.thunder": {
+    "category": "weather",
+    "replace": true,
+    "sounds": [
+      {
+        "name": "lightning.thunder",
+        "type": "event",
+        "weight": 10
+      },
+      "sound/thunder"
+    ]
+  },
+"entity.lightning.impact": {
+    "category": "weather",
+    "replace": true,
+    "sounds": [
+      {
+        "name": "lightning.impact",
+        "type": "event",
+        "weight": 10
+      },
+      "sound/thunder"
+    ]
+  },
+"entity.player.death": {
+    "category": "player",
+    "replace": true,
+    "sounds": [
+      {
+        "name": "player.death",
+        "type": "event",
+        "weight": 10
+      },
+      "sound/damage"
+    ]
+  },
+"entity.player.hurt": {
+    "category": "player",
+    "replace": true,
+    "sounds": [
+      {
+        "name": "player.death",
+        "type": "event",
+        "weight": 10
+      },
+      "sound/damage"
+    ]
+  },
+"item.armor.equip_generic": {
+    "category": "player",
+    "replace": true,
+    "sounds": [
+      {
+        "name": "armor.equip",
+        "type": "event",
+        "weight": 10
+      },
+      "sound/silent"
+    ]
+  },
+"item.bucket.empty": {
+    "category": "player",
+    "replace": true,
+    "sounds": [
+      {
+        "name": "bucket.empty",
+        "type": "event",
+        "weight": 10
+      },
+      "sound/silent"
+    ]
+  },
+"item.bucket.fill": {
+    "category": "player",
+    "replace": true,
+    "sounds": [
+      {
+        "name": "bucket.fill",
+        "type": "event",
+        "weight": 10
+      },
+      "sound/silent"
+    ]
+  },
+"block.portal.travel": {
+    "category": "ambient",
+    "replace": true,
+    "sounds": [
+      {
+        "name": "portal.travel",
+        "type": "event",
+        "weight": 10
+      },
+      "sound/silent"
+    ]
+  }
+}

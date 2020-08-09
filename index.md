@@ -1,37 +1,39 @@
-## Welcome to GitHub Pages
+## 1.7sound-pack配布所へようこそ
 
-You can use the [editor on GitHub](https://github.com/TI0360/1.7sound-pack/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+ここでは1.7sound-packについての説明とダウンロードについて書かれています。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### 1.7sound-packについて
 
-### Markdown
+1.7sound-packは1.11-1.16に対応したAnnihilation向けのサウンドパックです。
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+1.9で行われたPVPシステムの変更の際に追加された攻撃音などを1.7のものに戻す目的で作られています。
 
-```markdown
-Syntax highlighted code block
+このパックにはPVPが有利になるようなものは入っていません。
 
-# Header 1
-## Header 2
-### Header 3
+### ダウンロードに際して
 
-- Bulleted
-- List
+ファイルをダウンロードする場合は必ずバージョンに合ったもので、最新のものにしてください。（1.8メジャーアップデート前のものは1.11-1.12用しかありません。）
 
-1. Numbered
-2. List
+アルファ・ベータを使う場合は大きなバグなどが残っていることに注意してダンロードしてください。
 
-**Bold** and _Italic_ and `Code` text
+### 導入
 
-[Link](url) and ![Image](src)
-```
+対応したバージョンのものをダウンロードしたあとは、解凍せずにresourcepacksフォルダの中に入れてください。
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+!!!対応していないバージョンのものを入れることは推奨されていません。!!!
 
-### Jekyll Themes
+### 最新版ダウンロードページ
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/TI0360/1.7sound-pack/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+最新版のダウンロード↓
 
-### Support or Contact
+https://github.com/TI0360/1.7sound-pack/releases/latest
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+アルファ・ベータのダウンロード↓
+
+https://github.com/TI0360/1.7sound-pack/releases/
+
+## Credit
+
+made by tomo
+
+Latest update 08/09/2020

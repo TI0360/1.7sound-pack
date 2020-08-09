@@ -24,13 +24,7 @@
 
 ### 最新版ダウンロードページ
 
-最新版のダウンロード↓
-
-https://github.com/TI0360/1.7sound-pack/releases/latest
-
-アルファ・ベータのダウンロード↓
-
-https://github.com/TI0360/1.7sound-pack/releases/
+[最新版](https://github.com/TI0360/1.7sound-pack/releases/latest)
 
 ## Credit
 

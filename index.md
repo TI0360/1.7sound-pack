@@ -4,7 +4,7 @@
 
 ### 1.7sound-packについて
 
-1.7sound-packは1.11-1.16に対応したAnnihilation向けのサウンドパックです。
+1.7sound-packは1.13-1.16に対応したAnnihilation向けのサウンドパックです。
 
 1.9で行われたPVPシステムの変更の際に追加された攻撃音などを1.7のものに戻す目的で作られています。
 
@@ -28,4 +28,4 @@
 
 made by tomo
 
-Latest update 08/10/2020
+Latest site update 08/18/2020

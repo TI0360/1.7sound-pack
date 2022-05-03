@@ -30,7 +30,7 @@
 
 ### ダウンローダー
 
-[ダウンローダー]https://github.com/TI0360/re-1.7sound-downloader
+[ダウンローダー](https://github.com/TI0360/re-1.7sound-downloader)
 
 ## Credit
 
